@@ -1,6 +1,9 @@
 # UC GIS Spring 2021 Meetup
-April 1, 1-2pm via Zoom
+
 ![Image of Poster](https://ucgis.github.io/meetups/img/ucgis-2021-spring-meetup-poster.jpg)
+
+
+<p><time datetime="2021-04-01">April 1</time> via Zoom</p>
 
 ## Interested in GIS?
 
@@ -51,7 +54,7 @@ Scott will open a web browser and do a quick screen share of a several inspiring
 - [Covid-19 Dashboard, John Hopkins](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [WHO Coronavirus Dashboard](https://covid19.who.int/)
 - [Mapping the COVID-19 Pandemic](https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0)
-- [MaptimeLA QGIS and OpenData tutorial](https://github.com/maptimeLA/qgis_opendata) 
+- [MaptimeLA QGIS and OpenData tutorial](https://github.com/maptimeLA/qgis_opendata)
 - [The Carpentries](https://carpentries.org)
 
 ---
