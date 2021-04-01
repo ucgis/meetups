@@ -1,3 +1,3 @@
 # Meetups
 
-- April 1, 2021 Spring UC GIS Meetup
+- [Spring 2021 UC GIS Meetup](2021-04-01-spring-meetup-program.html)
