@@ -1,5 +1,6 @@
 # UC GIS Spring 2021 Meetup
 April 1, 1-2pm via Zoom
+![Image of Poster](https://ucgis.github.io/meetups/img/ucgis-2021-spring-meetup-poster.jpg)
 
 ## Interested in GIS?
 
@@ -21,7 +22,7 @@ Scott will open a web browser and do a quick screen share of a several inspiring
 
 *Scott Gruber is a web designer and developer at the UCLA Institute of the Environment and Sustainabilty. He is interested in art direction for the web and using modern CSS layout techniques to build sites that work for everyone, load fast and look good.*
 
-— 
+---
 
 ## Links
 
@@ -52,3 +53,9 @@ Scott will open a web browser and do a quick screen share of a several inspiring
 - [Mapping the COVID-19 Pandemic](https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0)
 - [MaptimeLA QGIS and OpenData tutorial](https://github.com/maptimeLA/qgis_opendata) 
 - [The Carpentries](https://carpentries.org)
+
+---
+
+## Group Screenshot
+
+![Image of Zoom Group](https://ucgis.github.io/meetups/img/ucgis-2021-spring-meetup-screenshot.jpg)
