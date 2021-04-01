@@ -27,7 +27,7 @@ Scott will open a web browser and do a quick screen share of a several inspiring
 ## Links
 
 - [World Historical Gazetteer](http://whgazetteer.org/)
-- [Pelagios Network](https://pelagios.org/) The Pelagios Network connects researchers, scientists and curators to link and explore the history of places.
+- [Pelagios Network](https://pelagios.org/)
 - [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/)
 - [Linked Pasts Symposium](https://linkedpasts.hcommons.org/)
 - [California Beach Plant Literature Map](http://micheletobias.github.io/maps/LiteratureMap.html)
@@ -41,7 +41,7 @@ Scott will open a web browser and do a quick screen share of a several inspiring
 - [Hubble's 30-year legacy](https://www.visualcinnamon.com/portfolio/hubble-30-years/)
 - [California Open Data](https://data.ca.gov)
 - [County of Los Angeles Open Data](https://data.lacounty.gov)
-- [LA GeoHub](https://geohub.lacity.org) The GeoHub is the City's new public platform for exploring, visualizing, and downloading location-based Open Data.
+- [LA GeoHub](https://geohub.lacity.org)
 - [data.world](https://data.world)
 - [North American Cartographic Information Society](https://nacis.org/)
 - [smartcitizen.me](https://smartcitizen.me/kits/13119)
