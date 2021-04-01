@@ -3,7 +3,7 @@
 ![Image of Poster](https://ucgis.github.io/meetups/img/ucgis-2021-spring-meetup-poster.jpg)
 
 
-<p><time datetime="2021-04-01">April 1</time> via Zoom</p>
+<p><time datetime="2021-04-01">April 1, 2021</time> via Zoom</p>
 
 ## Interested in GIS?
 
